@@ -11,8 +11,8 @@ const projectsData = [
     description: "Project 1 description",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/BabjiJada/Portfolio-Babji-Jada.git",
+    previewUrl: "https://github.com/BabjiJada/Portfolio-Babji-Jada.git",
   },
   {
     id: 2,
